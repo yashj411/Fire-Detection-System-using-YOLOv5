@@ -1,5 +1,5 @@
 
-# Fire Detection System YoloV5
+# Fire Detection System using YoloV5
 
 A Machine learning project that takes video input from cameras and detects fire in them in real time and with high accuracy.
 
