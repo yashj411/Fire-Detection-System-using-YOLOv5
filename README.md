@@ -29,10 +29,3 @@ And for recorded videos
 ![App Screenshot](https://github.com/piyushsakhare/FireDetectionSystem-YoloV5/blob/main/Screenshot%20(10).png)
 
 
-## Authors
-
-- [@piyushsakhare](https://www.github.com/piyushsakhare)
-- [@umeshthakre](https://www.github.com/umeshthakre)
-- [@rohit8066](https://www.github.com/rohit8066)
-- [@yashj411](https://www.github.com/yashj411)
-
